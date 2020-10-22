@@ -1,21 +1,55 @@
-# Unit 10 OOP Homework: Template Engine - Employee Summary
-A Node CLI that passes all unit tests and takes in information about employees and generates an HTML webpage that displays summaries for each person. 
+# README 
+   ## Title
+   ### Template Engine - Employee Summary
 
-# How it works
-The node CLI prompts the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. This assignment must also pass all unit tests. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
+   ## Preview
+   A demo video is available [here](https://drive.google.com/file/d/1xaJLSWfoXrbdzcP7VTW_S7_FQuS8Y5Xg/view)
 
-# User Story
-As a manager
-I want to generate a webpage that displays my team's basic info
-so that I have quick access to emails and GitHub profiles
+   ## Badges
+   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# Dependencies
-The dependencies are, [jest](https://jestjs.io/) for running the provided tests, and [inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user.
+   ## Description
+   A Node CLI that passes all unit tests and takes in information about employees and generates an HTML webpage that displays summaries for each person.
 
-# Demo
-https://drive.google.com/file/d/1xaJLSWfoXrbdzcP7VTW_S7_FQuS8Y5Xg/view
+   ## Table of Contents
+   * [Installation](#Installation)
+   * [Usage](#Usage)
+   * [License](#License)
+   * [Tests](#Tests)
+   * [Contribution](#Contribution)
+   * [Collaborators](#Collaborators)
+   * [Questions](#Questions)
 
-# License
-MIT License
 
-Copyright (c) [2020] [Chris N]
+   ## Installation
+   npm i to install relevant dependancies:
+   - [jest](https://jestjs.io/)
+   - [inquirer](https://www.npmjs.com/package/inquirer)
+   
+   ## Usage
+   The node CLI prompts the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. This assignment must also pass all unit tests. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
+   
+   The preview link provided above provides clear demonstration of use.
+
+
+   ## License
+   This project is licensed under the MIT license.
+
+   ## Tests
+   npm test
+
+   ## Contribution
+   There are many ways in which you can participate in the project, for example:
+
+   - Submit bugs and feature requests, and help us verify as they are checked in
+   - Review source code changes
+   - Review the documentation and make pull requests for anything from typos to new content 
+
+   ## Collaborators 
+   Prepared with the assistance of tutors and Trilogy materials
+
+
+   ## Questions
+   Email: christopher.j.natale@gmail.com.
+   Github Profile: http://github.com/cnat3103
+
